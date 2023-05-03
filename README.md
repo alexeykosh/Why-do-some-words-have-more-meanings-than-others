@@ -24,4 +24,4 @@ Then, you can run the model like so:
 
     python3 src/NeutralModel.py --N=100 --S=200 --mu=0.02 --k=0.04 --p=1000 --t=300
     
-The parameters can be replaced by arbitrary values, and the results will be saved in the *model-da
+The parameters can be replaced by arbitrary values, and the results will be saved in the *model-data* folder. 
